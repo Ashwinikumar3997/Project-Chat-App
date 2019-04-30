@@ -10,10 +10,7 @@ import java.io.DataOutputStream;
 import java.net.Socket;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Mukul Samrat
- */
+
 public class ClientGui extends javax.swing.JFrame {
 
     Socket s;
